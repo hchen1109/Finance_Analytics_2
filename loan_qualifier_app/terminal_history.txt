@@ -1,0 +1,984 @@
+   50  conda deactivate
+   51  ls 
+   52  ls -al 
+   53  ls ~/.ssh
+   54  conda env list
+   55  conda
+   56  cd
+   57  cd ~/git
+   58  cd mkdir <git>
+   59  cd mkdir git
+   60  cd mkdir/git
+   61  mkdir <git>
+   62  ~mkdir git
+   63  mkdir git
+   64  ls
+   65  cd git
+   66  cd ~git
+   67  git
+   68  git clone git@github.com:hchen1109/coding-demo.git
+   69  cd coding-demo/
+   70  ls
+   71  git add -A
+   72  git commit -m"Added an index.html file"
+   73  git add
+   74  git add .
+   75  git commit -m "some message"
+   76  git push origin main
+   77  cd 
+   78  git checkout -b new-branch-name
+   79  cd git
+   80  git checkout -b new-branch-name
+   81  cd coding-demo
+   82  git checkout -b new-branch-name
+   83  git add -A
+   84  git commit -m "some message"
+   85  open .
+   86  open .
+   87  git add .
+   88  cd coding-demo/
+   89  cd coding-demo
+   90  cd coding-demo
+   91  master
+   92  ~/git
+   93  open .
+   94  cd codingdemo
+   95  cd coding-demo
+   96  git add .
+   97  git commit -m "some message"
+   98  git push origin main
+   99  git checkout -b new-branch-name
+  100  git add-A
+  101  git add -A
+  102  git commit -m "some message"\n\n
+  103  git push origin new-branch-name
+  104  git checkout branch-name
+  105  git checkout branch-name
+  106  git checkout new branch name
+  107  git checkout main
+  108  git pull
+  109  print("hello")
+  110  print(" /")
+  111  conda activate dev
+  112  jupyter lab
+  113  conda deactivate
+  114  python -m ipykernel install --user --name dev
+  115  conda
+  116  git
+  117  conda info --envs
+  118  conda activate
+  119  conda activate dev
+  120  pwd
+  121  ls
+  122  cd ..
+  123  pwd
+  124  ls
+  125  cd haoyuchen
+  126  pwd
+  127  ls
+  128  cd desktop
+  129  pwd
+  130  ls
+  131  cd fintech
+  132  pwd
+  133  ls
+  134  cd homeworks
+  135  pwd
+  136  cd ..
+  137  cd  ..
+  138  pwd
+  139  cd fintech/homeworks
+  140  pwd
+  141  git
+  142  conda
+  143  cd ..
+  144  ls
+  145  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  146  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  147  ls
+  148  cd UCB-VIRT-FIN-PT-12-2021-U-B
+  149  pwd
+  150  git pull
+  151  ls
+  152  cd Desktop
+  153  cd Desktop/
+  154  ls
+  155  cd Fintech-Workspace
+  156  cd Python_Project
+  157  ls
+  158  conda activate dev
+  159  python --version
+  160  code .
+  161  py hello_python.py
+  162  python Hello FinTech!
+  163  code .
+  164  hello_puython.py
+  165  python
+  166  conda activate dev
+  167  python hello_python.py
+  168  conda activate dev
+  169  cd desktop
+  170  cd Fintech-Workspace
+  171  cd Python_Project
+  172  ls 
+  173  conda activate dev
+  174  code .
+  175  python hello_python.py
+  176  conda deactivate
+  177  conda activate conda
+  178  conda activate dev
+  179  python M1LS.py
+  180  python hello_python.py
+  181  cd desktop
+  182  cd Fintech-
+  183  Workspace
+  184  cd Fin
+  185  ls
+  186  cd desktop
+  187  cd Desktop
+  188  ls
+  189  cd FinTech-Workspace
+  190  python hello_python.py
+  191  cd Desktop
+  192  cd Fintech-Workspace
+  193  ls
+  194  cd Python_Project
+  195  conda activate dev
+  196  python hello_python.py
+  197  python hello_python.py
+  198  python hello_python.py
+  199  python hello_python.py
+  200  ls
+  201  cd desktop
+  202  ls
+  203  cd 01_Hello_Variable_World\t
+  204  ls
+  205  cd unsolved
+  206  ls
+  207  python hello_variable_world.py
+  208  print hello_variable_world.py
+  209  conda activate dev
+  210  print hello_variable_world.py
+  211  python hello_variable_world.py
+  212  ls
+  213  python hello_variable_world.py
+  214  conda activate dev
+  215  cd code >
+  216  cd code .
+  217  conda activate dev
+  218  python hello_variable_world.py
+  219  cd desktop
+  220  ls
+  221  cd 01_Hello_Variable_World\t
+  222  ls
+  223  cd unsolved
+  224  ls
+  225  python hello_variable_world.py
+  226  conda deactivate
+  227  cd desktop
+  228  cd desktop
+  229  ls
+  230  cd01_Hello_Variable_World\t  
+  231  cd 01_Hello_Variable_World\t
+  232  ls
+  233  cd Unsolved
+  234  ls
+  235  conda activate dev
+  236  python hello_variable_world.py
+  237  hello_variable_world.py
+  238  python hello_variable_world.py
+  239  python hello_variable_world.py
+  240  cd desktop
+  241  ls
+  242  cd code .
+  243  cd code.
+  244  code .
+  245  cd 01_Hello_Variable_World\t
+  246  ls
+  247  cd \tUnsolved
+  248  cd unsolved
+  249  ls
+  250  conda activate dev
+  251  code .
+  252  python hello_variable_world.py
+  253  python hello_variable_world.py
+  254  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  255  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  256  ls
+  257  python Python_Project
+  258  ls
+  259  ls
+  260  python hello_python.py
+  261  conda activate dev
+  262  python hello_python.py
+  263  ls
+  264  ls
+  265  cd Python_Project
+  266  ls
+  267  python hello_python.py
+  268  python hello_python.py
+  269  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  270  hello_python.py
+  271  python hello_python.py
+  272  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  273  ls
+  274  python hello_python.py
+  275  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  276  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  277  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  278  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  279  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  280  conda activate dev
+  281  python listing_assets.py
+  282  ls
+  283  cd unsolved
+  284  ls
+  285  python listing_assets.py
+  286  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  287  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  288  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  289  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  290  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  291  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  292  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  293  conda activate dev
+  294  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  295  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  296  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  297  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  298  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  299  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  300  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  301  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  302  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  303  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  304  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  305  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  306  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  307  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  308  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  309  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  310  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  311  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  312  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  313  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Conditional_Statement/Unsolved/conditional_statement.py
+  314  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Conditional_Statement/Unsolved/conditional_statement.py
+  315  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Conditional_Statement/Unsolved/conditional_statement.py
+  316  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Conditional_Statement/Unsolved/conditional_statement.py
+  317  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  318  conda activate dev
+  319  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  320  ls
+  321  cd Python_Project
+  322  ls
+  323  python hello_python.py
+  324  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  325  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  326  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  327  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  328  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  329  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  330  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  331  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  332  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  333  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  334  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  335  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  336  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  337  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  338  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  339  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  340  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  341  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  342  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  343  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  344  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  345  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  346  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  347  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  348  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  349  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  350  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  351  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  352  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  353  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  354  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  355  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  356  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  357  conda activate dev
+  358  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  359  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  360  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  361  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  362  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  363  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  364  /usr/local/bin/python3 /Users/haoyuchen/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  365  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  366  conda activate dev
+  367  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  368  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  369  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  370  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  371  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  372  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Class_1_Activities/01_Ins_Variables/Unsolved/variables.py
+  373  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Class_1_Activities/01_Ins_Variables/Unsolved/variables.py
+  374  /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/01_Conditional_Statement
+  375  condda deactivate
+  376  exit
+  377  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  378  conda activate dev
+  379  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  380  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  381  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  382  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  383  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  384  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  385  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  386  conda activate dev/usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  387  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  388  conda activate dev
+  389  /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  390  python hello_python.py
+  391  /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  392  FinTech-Workspace/Python_Project/hello_python.py
+  393  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  394  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  395  FinTech-Workspace/Python_Project/hello_python.py
+  396  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  397  conda activate dev
+  398  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  399  python hello_python.py
+  400  /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  401  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  402  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  403  cd 
+  404  cd desktop
+  405  ls
+  406  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  407  conda activate dev
+  408  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  409  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  410  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  411  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  412  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  413  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  414  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  415  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  416  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Returned_Goods/Unsolved/returned_goods.py
+  417  conda activate dev
+  418  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Returned_Goods/Unsolved/returned_goods.py
+  419  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Returned_Goods/Unsolved/returned_goods.py
+  420  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Returned_Goods/Unsolved/returned_goods.py
+  421  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Returned_Goods/Unsolved/returned_goods.py
+  422  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Returned_Goods/Unsolved/returned_goods.py
+  423  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Returned_Goods/Unsolved/returned_goods.py
+  424  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/02_Returned_Goods/Unsolved/returned_goods.py
+  425  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  426  conda activate dev
+  427  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  428  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  429  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  430  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  431  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  432  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  433  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  434  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  435  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  436  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  437  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  438  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  439  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  440  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  441  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  442  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  443  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  444  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  445  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  446  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  447  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  448  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  449  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  450  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  451  conda activate dev
+  452  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  453  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  454  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  455  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  456  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  457  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  458  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  459  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  460  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  461  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  462  /usr/local/bin/python3 /Users/haoyuchen/Desktop/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  463  /usr/local/bin/python3 /Users/haoyuchen/Desktop/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  464  cd desktop
+  465  cd
+  466  ls
+  467  cd Desktop
+  468  ls
+  469  cd FinTech-Workspace
+  470  ls
+  471  cd FinTech-Workspace
+  472  cd Desktop
+  473  conda activate dev
+  474  /usr/local/bin/python3 /Users/haoyuchen/Desktop/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  475  /usr/local/bin/python3 /Users/haoyuchen/Desktop/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  476  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  477  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/1.4-1.6/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  478  /usr/local/bin/python3 /Users/haoyuchen/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  479  /usr/local/bin/python3 /Users/haoyuchen/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  480  /usr/local/bin/python3 /Users/haoyuchen/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  481  ls
+  482  ls-la
+  483  pwd
+  484  cd Desktop
+  485  ls
+  486  cd Relocated\ Items.nosync
+  487  ls
+  488  pwd
+  489  mkdir Activity-1
+  490  exit
+  491  cd
+  492  list
+  493  cd Desktop
+  494  ls
+  495  cd Fin
+  496  cd Fintech Practice
+  497  ls
+  498  cd FinTech 
+  499  cd FinTech Career
+  500  pwd
+  501  ls
+  502  FinTech Practice
+  503  cd FinTech Practice
+  504  cd FinTech-Workspace
+  505  mkdir Activity-1
+  506  c ..
+  507  cd ..
+  508  ls
+  509  FinTech-Workspac
+  510  cd FinTech-Workspace
+  511  ls
+  512  rm -
+  513  rm -Activity-1
+  514  rm -r Activity-1
+  515  pwd
+  516  conda info --evns
+  517  conda info --envs
+  518  conda activate dev
+  519  cd Desktop
+  520  ls
+  521  cd FinTech Practice
+  522  cd FinTech Practice
+  523  pwd
+  524  ls
+  525  cd FinTech\ Practice
+  526  ls
+  527  cd Practice
+  528  jupyter lab
+  529  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  530  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  531  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  532  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  533  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  534  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  535  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  536  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  537  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  538  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  539  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  540  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  541  conda activate dev
+  542  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  543  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  544  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  545  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  546  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  547  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  548  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  549  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  550  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  551  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  552  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  553  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  554  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  555  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  556  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  557  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  558  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  559  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  560  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  561  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  562  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  563  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  564  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  565  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  566  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  567  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  568  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  569  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  570  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  571  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  572  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  573  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  574  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  575  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  576  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  577  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  578  conda activate dev
+  579  pip -V
+  580  pip freeze
+  581  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  582  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  583  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  584  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  585  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  586  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  587  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  588  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  589  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  590  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  591  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  592  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  593  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/GitHub_Upload/loan_analyzer.py
+  594  pip install fire
+  595  conda activate dev
+  596  pip install fire
+  597  pip install questionary
+  598  conda activate dev
+  599  pip install questionary
+  600  pip install fire
+  601  /usr/local/bin/python3 /Users/haoyuchen/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+  602  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  603  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  604  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  605  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  606  conda activate dev
+  607  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  608  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  609  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  610  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  611  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  612  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  613  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  614  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  615  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  616  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  617  conda activate dev
+  618  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  619  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  620  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  621  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  622  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  623  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  624  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  625  pwd
+  626  pwd
+  627  ls
+  628  mkdir test_folder
+  629  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  630  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/utils/calculators.py"
+  631  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/qualifier/utils/fileio.py"
+  632  /usr/local/bin/python3
+  633  psd
+  634  pwd
+  635  cd
+  636  ls
+  637  cd Desktop
+  638  ls
+  639  mkdir test_folder
+  640  ls
+  641  cd test_folder
+  642  touch fintech-file.txt
+  643  ls
+  644  rm fintech_file.txt
+  645  ls
+  646  rm fintech-file.txt
+  647  cd test_folder
+  648  cd..
+  649  rm -r
+  650  rm -r test_folder
+  651  cd test_folder
+  652  cd Desktop
+  653  pwd
+  654  cd..
+  655  cd ..
+  656  pwd
+  657  rm -r test_folder
+  658  cd Desktop
+  659  ls
+  660  rm -r test_folder
+  661  pip install fire
+  662  cd Desktop
+  663  pip install fire
+  664  import fire
+  665  pip 
+  666  import fire
+  667  conda activate dev
+  668  pip fire
+  669  pip install fire
+  670  condda activate dev
+  671  conda activate dev
+  672  cd Desktop
+  673  python pwd
+  674  python cli.py
+  675  ls
+  676  python cli.py
+  677  pip install fire
+  678  import fire
+  679  conda activate dev
+  680  python cli.py
+  681  cd Desktop
+  682  python cli.py
+  683  import fire
+  684  /usr/local/bin/python3 /Users/haoyuchen/Desktop/cli.py
+  685  /usr/local/bin/python3 /Users/haoyuchen/Desktop/cli.py
+  686  /usr/local/bin/python3 /Users/haoyuchen/Desktop/cli.py
+  687  conda activate dev
+  688  /usr/local/bin/python3 /Users/haoyuchen/Desktop/cli.py
+  689  /usr/local/bin/python3 /Users/haoyuchen/Desktop/cli.py
+  690   /usr/bin/env /usr/local/bin/python3 /Users/haoyuchen/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 58428 -- /Users/haoyuchen/Desktop/cli.py 
+  691  conda activate dev
+  692  python3 hello.py
+  693  type python
+  694  type pip3
+  695  python app.py
+  696  pwd
+  697  ls
+  698  cd Desktop
+  699  ls
+  700  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  701  ls
+  702  cd Unsolved
+  703  ls
+  704  python app.py
+  705  /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  706  conda activate dev
+  707  python app.py
+  708  /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  709  cd Desktop
+  710  ls
+  711  /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  712  01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py\n
+  713  Unsolved/app.py
+  714  python app.py
+  715  pwd
+  716  ls
+  717  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  718  python app.py
+  719  ls
+  720  cd Unsolved
+  721  ls
+  722  python app.py
+  723  python app.py --credit_score=750
+  724  python app.py
+  725  python app.py --credit_score=450
+  726  python app.py
+  727  python app.py --credit_score=450
+  728  python app.py --credit_score=450
+  729  python app.py --credit_score=450
+  730  pwd
+  731  cd
+  732  conda activate dev
+  733  /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  734  Unsolved/app.py
+  735  cd Desktop
+  736  ls
+  737  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  738  ls
+  739  cd Unsolved
+  740  ls
+  741  python app.py
+  742  python app.py --credit_score=750 --debt=3000 --income=50000
+  743  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  744  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  745  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  746  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  747  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  748  /usr/local/bin/python3 /Users/haoyuchen/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  749  pip install fire
+  750  conda activate dev
+  751  pip install fire
+  752  import fire
+  753  /usr/local/bin/python3 "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  754  /usr/local/bin/python3 /Users/haoyuchen/Desktop/dialog.py
+  755  /usr/local/bin/python3 /Users/haoyuchen/Desktop/dialog.py
+  756  conda activate dev
+  757  /usr/local/bin/python3 /Users/haoyuchen/Desktop/dialog.py
+  758  pip install questionary
+  759  conda activate dev
+  760  pip install questionary
+  761  conda activate dev
+  762  python --v
+  763  python
+  764  python 
+  765  source /opt/miniconda3/bin/activate
+  766  conda activate base
+  767  /opt/miniconda3/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  768  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  769  conda activate dev
+  770  python
+  771  conda activate dev
+  772  python app.py --credit_score=750 --debt=5000 --income=20000
+  773  cd Desktop
+  774  ls
+  775  02_Adding_questionary_to_Loan_Qualifier
+  776  cd 02_Adding_questionary_to_Loan_Qualifier\n
+  777  ls
+  778  cd unsolved
+  779  python app.py
+  780  python app.py --credit_score=750
+  781  python app.py --credit_score=750 n--debt=5000 --income=20000
+  782   ./data/daily_rate_sheet.csv
+  783  pwd
+  784  ls
+  785  cd qualifier
+  786  ls
+  787  python app.py
+  788  python app.py --credit_score=750 n--debt=5000 --income=20000
+  789  source /opt/miniconda3/bin/activate
+  790  conda activate dev
+  791  /opt/miniconda3/envs/dev/bin/python /Users/haoyuchen/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  792  python app.py --credit_score=750 --debt=5000 --income=20000
+  793  /opt/miniconda3/envs/dev/bin/python /Users/haoyuchen/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  794  /opt/miniconda3/envs/dev/bin/python /Users/haoyuchen/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  795  python app.py
+  796  /opt/miniconda3/envs/dev/bin/python /Users/haoyuchen/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  797  /opt/miniconda3/envs/dev/bin/python /Users/haoyuchen/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  798  /opt/miniconda3/envs/dev/bin/python /Users/haoyuchen/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  799  /opt/miniconda3/envs/dev/bin/python /Users/haoyuchen/Desktop/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py
+  800  get config --global user.name <Haoyu Chen>
+  801  git config --global user.name <Haoyu Chen>
+  802  conda activate dev
+  803  git config --global user.name <Haoyu Chen>\n
+  804  git config --global user.name Haoyu Chen
+  805  git config --global user.email haoyu.chen98@gmail.com
+  806  git config --list
+  807  cd
+  808  ls
+  809  cd Desktop
+  810  ls
+  811  FinTech-Workplace
+  812  ls
+  813  git clone https://github.com/hchen1109/Test_Repo.git
+  814  ls
+  815  cd Test_Repo
+  816  ls
+  817  git status
+  818  git add READMD.md
+  819  ls
+  820  cd README.md
+  821  pwd
+  822  cd Test_Repo
+  823  git status
+  824  git add
+  825  git status
+  826  git add README.md
+  827  git status
+  828  ls
+  829  git status
+  830  touch
+  831  ls
+  832  git status
+  833  touch new_file.txt
+  834  ls
+  835  git status
+  836  git add new_file.txt
+  837  git status
+  838  git commit -m "hello world"
+  839  git status
+  840  git push
+  841  git push
+  842  git push
+  843  git push
+  844  Matt110900!
+  845  hchen1109
+  846  git push
+  847  git push
+  848  git push
+  849  cd Desktop
+  850  git push
+  851  ls
+  852  cd Test_Repo
+  853  ls
+  854  git push
+  855  hchen1109
+  856  git push
+  857  hchen1109
+  858  git push
+  859  git push
+  860  git config --global user.name Haoyu Chen
+  861  git config --global user.email haoyu.chen98@gmail.com
+  862  source /opt/miniconda3/bin/activate
+  863  conda activate dev
+  864  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 2/Starter_Code/loan_qualifier_app/app.py"
+  865  source /opt/miniconda3/bin/activate
+  866  conda activate dev
+  867  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 2/Starter_Code/loan_qualifier_app/app.py"
+  868  pwd
+  869  cd ..
+  870  cd ..
+  871  cd ..
+  872  ls
+  873  cd Challenge 1
+  874  pwd
+  875  ls
+  876  cd challenge 1
+  877  cd Challenge\ 1
+  878  ls
+  879  cd GitHub_Upload
+  880  ls
+  881  python loan_analyzer.py
+  882  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  883  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  884  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  885  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  886  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  887  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  888  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  889  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  890  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  891  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  892  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  893  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  894  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  895  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  896  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  897  git status
+  898  cd Desktop
+  899  ls
+  900  cd FinTech-Workspace
+  901  ls
+  902  cd Challenges
+  903  ls
+  904  cd Challenge 2
+  905  pwd
+  906  cd Challenge 2
+  907  ls
+  908  history 50> terminal_history.txt
+  909  conda activate dev
+  910  conda list pandas
+  911  conda list jupyterlab
+  912  conda activat dev
+  913  conda activate dev
+  914  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  915  jupyter lab
+  916  conda deactivate
+  917  conda activate dev
+  918  jupyterlab
+  919  jupyter lab
+  920  source /opt/miniconda3/bin/activate
+  921  conda activate dev
+  922  source /opt/miniconda3/bin/activate
+  923  conda activate dev
+  924  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  925  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  926  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  927  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 1/GitHub_Upload/loan_analyzer.py"
+  928  conda activate dev
+  929  jupyterlab
+  930  jupyter lab
+  931  conda activate dav
+  932  conda activate dev
+  933  jupyter lab
+  934  conda activate dev
+  935  jupyterla 
+  936  jupyterlab
+  937  jupyter lab
+  938  cd
+  939  ls
+  940  cd Desktop
+  941  ls
+  942  cd FinTech-Workspace
+  943  ls
+  944  git clone
+  945  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  946  git clone
+  947  cd Desktop
+  948  ls
+  949  cd FinTech-Workspace
+  950  ls
+  951  cd Gitlab
+  952  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  953  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  954  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  955  .ssh/
+  956  git status
+  957  git pull
+  958  git status
+  959  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  960  git clone 46bd7abbddf6489d44165c7b1fa378f070d42556
+  961  git pull 46bd7abbddf6489d44165c7b1fa378f070d42556
+  962  git pull main
+  963  git pull main
+  964  cd 
+  965  ls
+  966  cd Desktop
+  967  ls
+  968  cd FinTech-Workspace
+  969  ls
+  970  cd Gitlab
+  971  git pull
+  972  git pull main
+  973  git pull 46bd7abbddf6489d44165c7b1fa378f070d42556
+  974  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  975  git pull
+  976  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  977  git pull https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  978  conda envs 
+  979  conda env list
+  980  conda create -n atm
+  981  source /opt/miniconda3/bin/activate
+  982  conda activate dev
+  983  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/FinTech-Workspace/Challenges/Challenge 2/Starter_Code copy/loan_qualifier_app/app.py"
+  984  conda activate dev
+  985  source /opt/miniconda3/bin/activate
+  986  conda activate dev
+  987  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/Starter_Code.Mod 2 copy/loan_qualifier_app/app.py"
+  988  source /opt/miniconda3/bin/activate
+  989  conda activate dev
+  990  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/Starter_Code.Mod 2 copy/loan_qualifier_app/qualifier/utils/fileio.py"
+  991  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/Starter_Code.Mod 2 copy/loan_qualifier_app/app.py"
+  992  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/Starter_Code.Mod 2 copy/loan_qualifier_app/app.py"
+  993  history 50>terminal_history.txt
+  994  pwd
+  995  ls
+  996  source /opt/miniconda3/bin/activate
+  997  conda activate dev
+  998  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/Starter_Code.Mod 2 copy/loan_qualifier_app/app.py"
+  999  /opt/miniconda3/envs/dev/bin/python "/Users/haoyuchen/Desktop/Starter_Code.Mod 2 copy/loan_qualifier_app/app.py"
+ 1000  history 50 > terminal_history.txt
+ 1001  cd Desktop
+ 1002  ls
+ 1003  cd Starter_Code.Mod 2 copy
+ 1004  cd Starter_Code.Mod\ 2
+ 1005  cd ..
+ 1006  cd Starter_Code.Mod\ 2 \
+ 1007  cd Starter_Code.Mod\ 2
+ 1008  cd ..
+ 1009  cd Starter_Code.Mod\ 2\ copy
+ 1010  ls
+ 1011  cd loan_qualifier_app
+ 1012  ls
+ 1013  python app.py
+ 1014  pip install fire
+ 1015  pip3 install fire
+ 1016  pip3 install questionary
+ 1017  python app.py
+ 1018  python3 app.py
+ 1019  pip3 list
+ 1020  conda install fire
+ 1021  conda install questionary
+ 1022  python app.py
+ 1023  python3 app.py
+ 1024  conda list
+ 1025  conda activate dev
+ 1026  conda install fire
+ 1027  conda config --append channels conda-forge
+ 1028  conda install fire
+ 1029  conda install questionary
+ 1030  conda list
+ 1031  python app.py
+ 1032  history 50
+ 1033  history 50 > terminal_history.txt
